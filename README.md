@@ -1,4 +1,4 @@
-# CI/CD Practice – React & Node
+# CI/CD Practice – React & Node 
 
 This repository is created to practice a basic **CI/CD workflow** using Git branching strategies.
 
